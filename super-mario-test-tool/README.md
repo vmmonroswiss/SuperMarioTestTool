@@ -1,12 +1,15 @@
 # SuperMarioTestTool
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
-
+# Based On
+https://github.com/changhuixu/angular-material-admin
 
 # Installed packages
 ng add @angular/material
 npm i -D electron@latest
 npm install lite-server --save-dev
+
+npm install @angular/flex-layout@latest --save
 
 ## Development server
 
